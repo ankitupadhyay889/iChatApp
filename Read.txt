@@ -1,0 +1,15 @@
+Hii guys This app was an real time chat app and you can easily make it but first you have to know about,
+(HTML , CSS , JAVASCRIPT AND NODEJS)
+
+this is very cool chat application and much better than chatwate app which i was previously upload on my github acc..
+
+so guys download it and much more know about socket.io at his official website..
+
+Socket.IO is a library that enables real-time, bidirectional and event-based communication between the browser and the server.
+
+
+
+Thank yOu 
+
+
+Ankit Upadhyay(MERN Stack Developer)
